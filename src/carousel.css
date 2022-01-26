@@ -1,0 +1,21 @@
+#section-1{
+    width:100px;
+    height:100px;
+}
+.carousel-image{
+    object-fit:contain;
+}
+#section-2{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:500px;
+}
+h1{
+    padding:200px;
+    
+}
+.section-2-item{
+    width:50px;
+    margin:auto;
+}
